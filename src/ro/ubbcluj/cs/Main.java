@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Initial version");
-
+        System.out.println("aaaa");
         Persoana persoana = new Persoana("Nume", "Prenume");
 
         System.out.println(persoana);
